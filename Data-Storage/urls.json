@@ -85,7 +85,7 @@
   },
   {
     "id": "dataAthenaItemWeights",
-    "url": "https://raw.githubusercontent.com/pxlpkr/wynncycle-sources/refs/heads/main/public/item_weights.json"
+    "url": "https://raw.githubusercontent.com/pxlpkr/cycle-static/refs/heads/main/Extern/pub/item_weights.json"
   },
   {
     "id": "dataAthenaLeaderboard",
@@ -368,7 +368,7 @@
   {
     "id": "dataStaticUrls",
     "path": "Data-Storage/urls.json",
-    "url": "https://raw.githubusercontent.com/pxlpkr/wynncycle-sources/refs/heads/main/public/urls.json"
+    "url": "https://raw.githubusercontent.com/pxlpkr/cycle-static/refs/heads/main/Data-Storage/urls.json"
   },
   {
     "arguments": [

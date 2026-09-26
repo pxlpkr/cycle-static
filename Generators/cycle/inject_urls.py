@@ -3,8 +3,8 @@ import json
 
 URLS_URL = "https://raw.githubusercontent.com/Wynntils/Static-Storage/refs/heads/main/Data-Storage/urls.json"
 
-WYNNCYCLE_WEIGHTS_URL = "https://raw.githubusercontent.com/pxlpkr/wynncycle-sources/refs/heads/main/public/item_weights.json"
-WYNNCYCLE_URLS_URL = "https://raw.githubusercontent.com/pxlpkr/wynncycle-sources/refs/heads/main/public/urls.json"
+WYNNCYCLE_WEIGHTS_URL = "https://raw.githubusercontent.com/pxlpkr/cycle-static/refs/heads/main/Extern/pub/item_weights.json"
+WYNNCYCLE_URLS_URL = "https://raw.githubusercontent.com/pxlpkr/cycle-static/refs/heads/main/Data-Storage/urls.json"
 
 def buildURLs():
     # EXTERNAL
