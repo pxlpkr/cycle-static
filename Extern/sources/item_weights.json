@@ -5,5 +5,77 @@
       "rawWaterSpellDamage": 0.425,
       "rawMaxMana": 0.05
     }
+  },
+  "Champion's Valiance": {
+    "Water": {
+      "rawWaterDamage": 0.4,
+      "healthRegen": 0.35,
+      "raw4thSpellCost": 0.25
+    }
+  },
+  "Cistern Circlet": {
+    "Spell": {
+      "manaRegen": 0.6,
+      "spellDamage": 0.4
+    }
+  },
+  "Equinox": {
+    "Water": {
+      "waterDamage": 0.65,
+      "healthRegen": 0.35
+    }
+  },
+  "Rewritten History": {
+    "Water": {
+      "healthRegen": 0.25,
+      "manaRegen": 0.35,
+      "rawDamage": 0.3,
+      "4thSpellCost": 0.1
+    }
+  },
+  "Anamnesis": {
+    "Water": {
+      "manaRegen": 0.55,
+      "waterDamage": 0.45
+    }
+  },
+  "Shattershard": {
+    "Water": {
+      "manaRegen": 0.1,
+      "rawMaxMana": 0.05,
+      "spellDamage": 0.5,
+      "rawWaterSpellDamage": 0.35
+    }
+  },
+  "Auxetic Capacitor": {
+    "Water": {
+      "healthRegen": 0.25,
+      "healingEfficiency": 0.05,
+      "rawThunderDamage": 0.35,
+      "spellDamage": 0.35
+    }
+  },
+  "Drown": {
+    "Water Spell": {
+      "healthRegen": 0.175,
+      "manaRegen": 0.2,
+      "walkSpeed": 0.075,
+      "rawWaterSpellDamage": 0.275,
+      "waterSpellDamage": 0.275
+    }
+  },
+  "Yang": {
+    "Spell": {
+      "spellDamage": 0.675,
+      "rawSpellDamage": 0.325
+    }
+  },
+  "Dwindled Knowledge": {
+    "Water Spell": {
+      "manaRegen": 0.325,
+      "rawMaxMana": 0.175,
+      "elementalDamage": 0.15,
+      "waterSpellDamage": 0.35
+    }
   }
 }
