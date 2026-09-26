@@ -9,25 +9,25 @@
   "Champion's Valiance": {
     "Water": {
       "rawWaterDamage": 0.4,
-      "healthRegen": 0.35,
+      "rawHealthRegen": 0.35,
       "raw4thSpellCost": 0.25
     }
   },
   "Cistern Circlet": {
     "Spell": {
       "manaRegen": 0.6,
-      "spellDamage": 0.4
+      "rawSpellDamage": 0.4
     }
   },
   "Equinox": {
     "Water": {
       "waterDamage": 0.65,
-      "healthRegen": 0.35
+      "rawHealthRegen": 0.35
     }
   },
   "Rewritten History": {
     "Water": {
-      "healthRegen": 0.25,
+      "rawHealthRegen": 0.25,
       "manaRegen": 0.35,
       "rawDamage": 0.3,
       "4thSpellCost": 0.1
@@ -41,15 +41,15 @@
   },
   "Shattershard": {
     "Water": {
-      "manaRegen": 0.1,
+      "manaRegen": 0.075,
       "rawMaxMana": 0.05,
       "spellDamage": 0.5,
-      "rawWaterSpellDamage": 0.35
+      "rawWaterSpellDamage": 0.375
     }
   },
   "Auxetic Capacitor": {
     "Water": {
-      "healthRegen": 0.25,
+      "rawHealthRegen": 0.25,
       "healingEfficiency": 0.05,
       "rawThunderDamage": 0.35,
       "spellDamage": 0.35
@@ -57,7 +57,7 @@
   },
   "Drown": {
     "Water Spell": {
-      "healthRegen": 0.175,
+      "rawHealthRegen": 0.175,
       "manaRegen": 0.2,
       "walkSpeed": 0.075,
       "rawWaterSpellDamage": 0.275,
