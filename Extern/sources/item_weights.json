@@ -1,7 +1,7 @@
 {
   "Resolution": {
     "Water Spell": {
-      "rawSpellDamage": 0.525,
+      "spellDamage": 0.525,
       "rawWaterSpellDamage": 0.425,
       "rawMaxMana": 0.05
     }

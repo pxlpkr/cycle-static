@@ -13,7 +13,7 @@ def buildWeights():
         internalData = json.load(file)
 
     # CONVERT
-    externalData["wynncycle_weights"] = internalData
+    externalData["wynncycle"] = internalData
 
     # WRITE
     with open('Extern/pub/item_weights.json', 'w+', encoding='utf-8') as file:
