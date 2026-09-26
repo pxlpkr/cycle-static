@@ -9,7 +9,7 @@
   "Champion's Valiance": {
     "Water": {
       "rawWaterDamage": 0.4,
-      "rawHealthRegen": 0.35,
+      "healthRegenRaw": 0.35,
       "raw4thSpellCost": 0.25
     }
   },
@@ -22,12 +22,12 @@
   "Equinox": {
     "Water": {
       "waterDamage": 0.65,
-      "rawHealthRegen": 0.35
+      "healthRegenRaw": 0.35
     }
   },
   "Rewritten History": {
     "Water": {
-      "rawHealthRegen": 0.25,
+      "healthRegenRaw": 0.25,
       "manaRegen": 0.35,
       "rawDamage": 0.3,
       "4thSpellCost": 0.1
@@ -49,7 +49,7 @@
   },
   "Auxetic Capacitor": {
     "Water": {
-      "rawHealthRegen": 0.25,
+      "healthRegenRaw": 0.25,
       "healingEfficiency": 0.05,
       "rawThunderDamage": 0.35,
       "spellDamage": 0.35
@@ -57,7 +57,7 @@
   },
   "Drown": {
     "Water Spell": {
-      "rawHealthRegen": 0.175,
+      "healthRegenRaw": 0.175,
       "manaRegen": 0.2,
       "walkSpeed": 0.075,
       "rawWaterSpellDamage": 0.275,
