@@ -3,3 +3,5 @@
 /Generators/assets/
 # File containing local API key
 .local-env
+
+.vscode
